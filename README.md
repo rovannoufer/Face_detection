@@ -1,4 +1,6 @@
 # Face_detection
+ 
+ Python script that demonstrates real-time face tracking using a deep learning model.
  Python script that demonstrates real-time face tracking using a deep learning model. 
  The program employs computer vision techniques and TensorFlow to build a custom face tracking model that can detect and track faces in live webcam streams.
 
